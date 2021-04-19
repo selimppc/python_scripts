@@ -12,7 +12,10 @@ def get_geo():
     """
     address = get_address_by_location(latitude, longitude)
     # print all returned data
-    pprint(address['address'])
+    country_code = ''
+    if address['address']:
+        country_code = address['address']['country_code'].upper()
+    pprint(country_code)
     return "Ok"
 
 
