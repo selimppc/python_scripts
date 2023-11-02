@@ -1,0 +1,1265 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711903240 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711163345 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801730306310 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801313715048 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801700701468 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713014462 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711142657 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801718765554 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711166501 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713099691 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801755605299 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711865088 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711829288 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711217850 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713140071 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713142169 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801755643038 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801313795917 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801715833393 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713388974 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801730335722 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713104431 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801712003294 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801715049818 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801715011369 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711080443 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801736353543 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801714082331 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801777735367 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801714109859 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801766665908 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801755681757 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713556816 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801844000833 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801709999356 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801313076647 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801714040668 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801313212030 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713143170 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713998236 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801778686819 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801777702107 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713117947 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711415372 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801769112498 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801714070276 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713062876 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801708486754 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801708166646 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801332381090 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801332438911 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801717937457 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801766656226 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801738458316 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801303164082 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801709936295 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801712895975 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801757832449 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801303969028 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801755333333 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801712556531 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801799786730 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801751154066 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801767575757 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801732533997 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801785220730 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801734322121 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801733246962 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801730090069 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801780379747 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801755637431 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801723347585 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801727751428 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801758369990 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801759131613 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801759131613 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801303401964 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801325454092 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801315945444 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801315945444 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801757120757 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801706279447 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801799994634 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801321722922 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801314189904 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711335841 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801718477259 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801726020880 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713041245 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801715862819 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801716832504 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801318895769 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801712957042 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801709973655 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801757544030 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801708145322 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801326869344 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801769183482 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801310593492 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801754436246 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801723868699 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801317188736 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801318613650 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801313718605 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801755531892 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801794664666 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801730305579 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801716714434 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801316864040 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801717407678 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711170175 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801777792373 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801709953940 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801714726683 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801754577332 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801705875449 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801705991828 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801701967267 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801712976999 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801303320268 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801787657504 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801717680049 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801322600474 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801305401425 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801748255548 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801724023805 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801301667023 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801740635681 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801716766096 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801770351482 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801701217948 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801775444445 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801735495278 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801323247052 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801788467688 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801738113111 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801782973437 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801706839369 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801321684451 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801313762355 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801714109254 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801958246731 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801306315399 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713225024 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801732415796 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801710932456 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801754342772 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801738331378 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801785820747 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801771550122 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713337380 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711488403 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801717418880 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801755621467 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801722060437 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801716911911 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801777704196 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801729067274 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801841600840 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801322447519 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801790350863 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801701226577 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801308193002 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801712010343 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711217861 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801762995916 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801774624999 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801747795912 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801718007616 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801715249454 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801710064455 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801719385858 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801724967959 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801798951412 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801735147514 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801712106499 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801739259698 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801726659601 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801313094737 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801755517566 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801732645981 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801710431089 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801330676061 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801709995321 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801741629697 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801798135095 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801726601559 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801706547505 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801706547505 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801752212006 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713145334 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801701676611 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801324242524 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801310797740 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801705406117 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801773719651 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801729299494 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801721381449 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801715066085 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801769006691 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801712297617 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801706758306 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801733580880 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801770831205 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801787693678 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801712086215 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801317896618 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801719191901 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801707178656 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801728585280 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801708154195 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801977900208 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713156125 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801312219111 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801772991189 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801726990778 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801745241069 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801714398818 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801747687498 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801748163635 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801764656699 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801722245374 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801783322278 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801306560083 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801764880506 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801730373795 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801715016009 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801720064914 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801777740255 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801799993510 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801313486725 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801718388522
+WARNING:root:Failed to process user_msisdn: 8801718388522 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801313000244 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801715815814
+WARNING:root:Failed to process user_msisdn: 8801715815814 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801712141887 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801755620706
+WARNING:root:Failed to process user_msisdn: 8801755620706 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801777702084 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713178554 with package_code: 364
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801746212312
+WARNING:root:Failed to process user_msisdn: 8801746212312 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711549149 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801707071901
+WARNING:root:Failed to process user_msisdn: 8801707071901 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711521405 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801731303535 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801742187232
+WARNING:root:Failed to process user_msisdn: 8801742187232 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801766668474
+WARNING:root:Failed to process user_msisdn: 8801766668474 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713483290 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711503149 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801322859109 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801730725911
+WARNING:root:Failed to process user_msisdn: 8801730725911 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801711179635
+WARNING:root:Failed to process user_msisdn: 8801711179635 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713368368 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801769458773 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801700718859
+WARNING:root:Failed to process user_msisdn: 8801700718859 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801769968154 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801777778199 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713567052 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801713274926
+WARNING:root:Failed to process user_msisdn: 8801713274926 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 502 75
+DONE::ERROR:root:HTTP error occurred for user_msisdn 8801717616146: 502 Server Error: Bad Gateway for url: https://api.bongo-solutions.com/agency/v1/activate/package
+WARNING:root:Failed to process user_msisdn: 8801717616146 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801764629251
+WARNING:root:Failed to process user_msisdn: 8801764629251 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801704114243 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801716876385
+WARNING:root:Failed to process user_msisdn: 8801716876385 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801730576622
+WARNING:root:Failed to process user_msisdn: 8801730576622 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801755639410
+WARNING:root:Failed to process user_msisdn: 8801755639410 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801755639410
+WARNING:root:Failed to process user_msisdn: 8801755639410 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801733905680
+WARNING:root:Failed to process user_msisdn: 8801733905680 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801328952881
+WARNING:root:Failed to process user_msisdn: 8801328952881 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801708832690 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801723963588
+WARNING:root:Failed to process user_msisdn: 8801723963588 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801701223557 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801766528173
+WARNING:root:Failed to process user_msisdn: 8801766528173 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801768159997 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801711886161
+WARNING:root:Failed to process user_msisdn: 8801711886161 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801788601531
+WARNING:root:Failed to process user_msisdn: 8801788601531 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801711935785
+WARNING:root:Failed to process user_msisdn: 8801711935785 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801706494646
+WARNING:root:Failed to process user_msisdn: 8801706494646 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801775147690
+WARNING:root:Failed to process user_msisdn: 8801775147690 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801743474915 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801730984723 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801776942722
+WARNING:root:Failed to process user_msisdn: 8801776942722 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801744749875 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801730780660 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801712342391
+WARNING:root:Failed to process user_msisdn: 8801712342391 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801710018000 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801791399093
+WARNING:root:Failed to process user_msisdn: 8801791399093 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711937774 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801708481212
+WARNING:root:Failed to process user_msisdn: 8801708481212 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 502 75
+DONE::ERROR:root:HTTP error occurred for user_msisdn 8801779348837: 502 Server Error: Bad Gateway for url: https://api.bongo-solutions.com/agency/v1/activate/package
+WARNING:root:Failed to process user_msisdn: 8801779348837 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801718448176
+WARNING:root:Failed to process user_msisdn: 8801718448176 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801714083239 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801712428849
+WARNING:root:Failed to process user_msisdn: 8801712428849 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801730335251 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801704271666
+WARNING:root:Failed to process user_msisdn: 8801704271666 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801704160759
+WARNING:root:Failed to process user_msisdn: 8801704160759 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801704160759
+WARNING:root:Failed to process user_msisdn: 8801704160759 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801719221357
+WARNING:root:Failed to process user_msisdn: 8801719221357 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801737989342
+WARNING:root:Failed to process user_msisdn: 8801737989342 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801716084205 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801701211013 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801793475484
+WARNING:root:Failed to process user_msisdn: 8801793475484 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801755780744 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801745505111 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801716914216
+WARNING:root:Failed to process user_msisdn: 8801716914216 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801300874910 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801777234397 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711367265 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801787690115 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801712533221
+WARNING:root:Failed to process user_msisdn: 8801712533221 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801790117221 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801726731427 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801723765430 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801717360128
+WARNING:root:Failed to process user_msisdn: 8801717360128 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 502 75
+DONE::ERROR:root:HTTP error occurred for user_msisdn 8801717999923: 502 Server Error: Bad Gateway for url: https://api.bongo-solutions.com/agency/v1/activate/package
+WARNING:root:Failed to process user_msisdn: 8801717999923 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801769001704 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711163791 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801703091547
+WARNING:root:Failed to process user_msisdn: 8801703091547 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801778474704 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801792525948 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801755555446 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801780700651 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711363576 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801761482588 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801755517409 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801710111141
+WARNING:root:Failed to process user_msisdn: 8801710111141 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801712563863 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801752696351 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801755548877 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801733463341 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801727815896 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801300964259 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801315655224
+WARNING:root:Failed to process user_msisdn: 8801315655224 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801775888311 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801746958049 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801714933467 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801306665151 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711528565 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713029776 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801734132577 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801331511165 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801767356780 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801733168332 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713061272 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801713116688
+WARNING:root:Failed to process user_msisdn: 8801713116688 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801748651736 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801322373038
+WARNING:root:Failed to process user_msisdn: 8801322373038 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801798777329 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801918185529 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711107228 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801712134282 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801312616288 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801755675274 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801313449422 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801792836296 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713580822 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801300579131 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801730350362 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801315058993 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801738293202 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801704173655 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801715363879 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801300869221 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801733989899 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801313437694 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801777711403 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801714064581 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801717477999 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801709816456
+WARNING:root:Failed to process user_msisdn: 8801709816456 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801799993488 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801778950649 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801744484080 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801796466147 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801777710813 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801744854853 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801796369955 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801755541405 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801719041831 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801769968203 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801730047713 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801744169510 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801723553014 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 502 75
+DONE::ERROR:root:HTTP error occurred for user_msisdn 8801773719651: 502 Server Error: Bad Gateway for url: https://api.bongo-solutions.com/agency/v1/activate/package
+WARNING:root:Failed to process user_msisdn: 8801773719651 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801728771771 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801720186216 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801755519306 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801787807812 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801757516115 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801752289258 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801329650690 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801700760870 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801730090069 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801755691281 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711504438 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713252129 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801723897598 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801717408723 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713143225 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801729067290 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801789271226 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801715829191 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801710065750 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801736804180 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801734888190 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801715321431 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801769968177 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801734933884 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801754550652 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801710912353 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+ERROR:root:Timeout error for user_msisdn 8801717110165
+WARNING:root:Failed to process user_msisdn: 8801717110165 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801704565122 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801312982860 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801782348477 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711910284 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801317609797 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801711504241 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801313076630 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801731340857 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801713048752 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801313019162 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801715832672 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801767229355 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
+DEBUG:urllib3.connectionpool:https://api.bongo-solutions.com:443 "POST /agency/v1/activate/package HTTP/1.1" 200 None
+INFO:root:Successfully processed user_msisdn: 8801737232426 with package_code: 362
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bongo-solutions.com:443
